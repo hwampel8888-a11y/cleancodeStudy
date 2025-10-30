@@ -1,2 +1,0 @@
-# cleancodeStudy
-cleancode study
